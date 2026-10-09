@@ -1,6 +1,18 @@
-# KANBLAZ CLOUD
+# KANBLAZ CLOUD — Multi-Session Cloud Gaming Manager for Windows
 
-Official Windows downloads / Descargas oficiales para Windows.
+**KANBLAZ CLOUD** is a Windows desktop application for organizing, launching, and managing multiple cloud gaming profiles and windows from one interface. Create local profiles and folders, arrange game sessions in flexible layouts, and choose individual or shared controller input where supported.
+
+It provides launch options for **Xbox Cloud Gaming**, **NVIDIA GeForce NOW**, and **Amazon Luna**. Fortnite players can organize their cloud gaming sessions and use supported visual and audio notifications; detection accuracy varies by content and conditions. Amazon Luna gameplay has not been verified end-to-end. Performance and the number of sessions depend on your computer, network, and the gaming provider.
+
+**Free and Pro versions are available.** Free supports up to two saved profiles; Pro removes the app's artificial saved-profile limit. Gaming services and games are separate and may require their own subscriptions.
+
+**Official Windows download:** [Latest KANBLAZ CLOUD release](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest) — select the Windows ZIP rather than GitHub's Source code archives.
+
+**Español:** KANBLAZ CLOUD es una aplicación de Windows para organizar, abrir y administrar varios perfiles y ventanas de cloud gaming desde una sola interfaz. Permite organizar sesiones para Xbox Cloud Gaming, GeForce NOW y Amazon Luna (Luna aún no verificado de extremo a extremo), con diseños de ventanas y opciones de control individual o compartido. La versión Free permite hasta 2 perfiles guardados y Pro elimina el límite artificial de perfiles de la aplicación. El rendimiento depende de tu equipo, conexión y servicio.
+
+> KANBLAZ CLOUD is an independent application and is not affiliated with, endorsed by, or sponsored by Microsoft, Xbox, NVIDIA, GeForce NOW, Amazon, Epic Games, or Fortnite.
+
+---
 
 ## Download / Descargar
 
