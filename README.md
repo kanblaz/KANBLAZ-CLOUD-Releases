@@ -6,7 +6,7 @@ It provides launch options for **Xbox Cloud Gaming**, **NVIDIA GeForce NOW**, an
 
 **Free and Pro versions are available.** Free supports up to two saved profiles; Pro removes the app's artificial saved-profile limit. Gaming services and games are separate and may require their own subscriptions.
 
-**Official Windows download:** [Latest KANBLAZ CLOUD release](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest) — select the Windows ZIP rather than GitHub's Source code archives.
+**Windows 64-bit installer / Instalador:** [Download KANBLAZ.CLOUD.exe](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest/download/KANBLAZ.CLOUD.exe). You can also choose the portable ZIPs below. / También puedes elegir los ZIP portables de abajo.
 
 **Español:** KANBLAZ CLOUD es una aplicación de Windows para organizar, abrir y administrar varios perfiles y ventanas de cloud gaming desde una sola interfaz. Permite organizar sesiones para Xbox Cloud Gaming, GeForce NOW y Amazon Luna (Luna aún no verificado de extremo a extremo), con diseños de ventanas y opciones de control individual o compartido. La versión Free permite hasta 2 perfiles guardados y Pro elimina el límite artificial de perfiles de la aplicación. El rendimiento depende de tu equipo, conexión y servicio.
 
@@ -16,22 +16,23 @@ It provides launch options for **Xbox Cloud Gaming**, **NVIDIA GeForce NOW**, an
 
 ## Download / Descargar
 
-- **[Windows 64-bit — recommended / recomendado](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest/download/KANBLAZ-CLOUD-win-x64.zip)**
+- **[Windows 64-bit installer — recommended / instalador recomendado](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest/download/KANBLAZ.CLOUD.exe)**
+- **[Windows 64-bit portable ZIP](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest/download/KANBLAZ-CLOUD-win-x64.zip)**
 - **[Windows 32-bit — x86](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest/download/KANBLAZ-CLOUD-win-x86.zip)**
 - [Release notes, requirements and checksums / Novedades, requisitos y hashes](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/latest)
 
-Download the named Windows ZIP, not GitHub's automatically generated Source code archives. This repository contains distribution documentation only, not the application source code.
+Download the installer or named Windows ZIP, not GitHub's automatically generated Source code archives. This repository contains distribution documentation only, not the application source code.
 
-Descarga el ZIP de Windows, no los archivos Source code generados por GitHub. Este repositorio no contiene el código fuente de la aplicación.
+Descarga el instalador o ZIP de Windows, no los archivos Source code generados por GitHub. Este repositorio no contiene el código fuente de la aplicación.
 
 ## Install / Instalar
 
-1. Close the old application / Cierra la aplicación anterior.
-2. Extract the ENTIRE ZIP into a new folder / Extrae TODO el ZIP en una carpeta nueva.
-3. Open **KANBLAZ CLOUD.exe**. Keep the included files together / Conserva todos los archivos juntos.
-4. Read **README.html** for prerequisites / Consulta **README.html** para los requisitos.
+1. Close Kanblaz and finish game sessions first / Cierra Kanblaz y termina las partidas primero.
+2. **Installer:** run **KANBLAZ.CLOUD.exe** and follow the steps. It installs for your Windows user without requesting administrator rights; a desktop shortcut is optional. / **Instalador:** ejecuta **KANBLAZ.CLOUD.exe** y sigue los pasos. Instala para tu usuario de Windows, sin pedir administrador; el acceso directo de escritorio es opcional.
+3. **Portable ZIP:** extract the ENTIRE ZIP into a new folder and open **KANBLAZ CLOUD.exe** (or **ABRIR KANBLAZ.bat** when included). Keep all files together. / **ZIP portable:** extrae TODO en una carpeta nueva y abre el EXE o **ABRIR KANBLAZ.bat** si se incluye. Conserva todos los archivos juntos.
+4. Existing profiles and local preferences are retained. Read **README.html** for prerequisites. / Se conservan perfiles y preferencias locales. Consulta **README.html** para los requisitos.
 
-Existing users need one manual installation to move to this public update channel. / Los usuarios anteriores necesitan instalar manualmente una vez para migrar a este canal público.
+Official builds can also use **Check for updates** after closing game sessions. Older test builds with update checks disabled need a manual installation once. / Las versiones oficiales también pueden usar **Buscar actualizaciones** tras cerrar las sesiones. Las pruebas antiguas con la consulta desactivada requieren una instalación manual una vez.
 
 ## Features / Funciones
 
