@@ -34,6 +34,17 @@ Descarga el instalador o ZIP de Windows, no los archivos Source code generados p
 
 Official builds can also use **Check for updates** after closing game sessions. Older test builds with update checks disabled need a manual installation once. / Las versiones oficiales también pueden usar **Buscar actualizaciones** tras cerrar las sesiones. Las pruebas antiguas con la consulta desactivada requieren una instalación manual una vez.
 
+## Latest update / Última actualización
+
+**[3.2.47.109 — KZ-RELEASE-158](https://github.com/kanblaz/KANBLAZ-CLOUD-Releases/releases/tag/v3.2.47.109)**
+
+- **AFK Autobuy:** assigned-key start/stop, hold or repeat compatibility, and optional screen muting while enabled rare alerts remain active. / Tecla asignada para iniciar/detener, sostenido o repetición y silencio opcional conservando los avisos habilitados.
+- **ABSOLUTE / GOAT clips:** embedded colored frame, rarity label and **Recorded by Kanblaz Cloud** watermark, without a profile label in the artwork. / Marco, rareza y marca integrados en el video, sin perfil en el diseño.
+- A cleaner desktop interface, updated rarity-color references and input/controller compatibility improvements. / Interfaz renovada, colores de referencia actualizados y mejoras de compatibilidad de entrada y mandos.
+- **NEW / NUEVO:** five-day labels in AFK Autobuy, Auto Clips and Extras. / Etiquetas durante cinco días; reabrir no reinicia el plazo.
+
+Auto Clips records **60 seconds after an accepted detection**, with startup ON and manual pause. ETERNAL and manual test clips retain their unbranded video. Recognition and live provider behavior depend on the game, device and service. / Auto Clips graba **60 segundos después de una detección aceptada**, inicia ON y permite pausa manual. ETERNAL y el clip manual mantienen el video sin marca. La precisión y el comportamiento real dependen del juego, equipo y servicio.
+
 ## Features / Funciones
 
 Local profiles, updated layouts, Xbox Cloud Gaming, GeForce NOW and Amazon Luna service options. Individual control or Shared routing to all open game windows. Supported audio and screen alerts; recognition varies with clarity. Luna gameplay has not yet been verified end-to-end.
